@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions - Volvo Homey Integration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #005BAC;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms & Conditions</h1>
+    <p>
+        This integration connects your Volvo vehicle with the Homey smart home platform.
+        By using this integration, you agree to the following:
+    </p>
+    <ul>
+        <li>Your Volvo account credentials are used only to authenticate with Volvo's official API.</li>
+        <li>No data is shared with third parties. All data remains within your Homey environment.</li>
+        <li>This integration is provided as-is, without any warranty.</li>
+    </ul>
+    <h2>Privacy</h2>
+    <p>
+        The integration accesses vehicle data such as battery status, location, and climate settings
+        solely for automation purposes within Homey. No data is stored outside of Homey.
+    </p>
+    <footer>
+        &copy; 2025 Volvo Homey Integration. For questions, contact: your-email@example.com
+    </footer>
+</body>
+</html>
